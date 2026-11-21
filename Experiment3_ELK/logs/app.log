@@ -1,0 +1,6 @@
+
+{"timestamp":"2026-11-21T10:00:00Z","level":"INFO","service":"web-app","message":"Application started successfully"}
+{"timestamp":"2026-11-21T10:01:00Z","level":"INFO","service":"web-app","message":"User login successful"}
+{"timestamp":"2026-11-21T10:02:00Z","level":"WARNING","service":"web-app","message":"High response time detected"}
+{"timestamp":"2026-11-21T10:03:00Z","level":"ERROR","service":"web-app","message":"Database connection failed"}
+{"timestamp":"2026-11-21T10:04:00Z","level":"INFO","service":"web-app","message":"Database connection restored"}

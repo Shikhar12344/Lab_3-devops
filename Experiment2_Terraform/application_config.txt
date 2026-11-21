@@ -1,0 +1,4 @@
+Application: DevOps Demo
+Infrastructure: Terraform
+Environment: Production
+Status: Provisioned Successfully
